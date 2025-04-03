@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Mikrotek Incorporated, Palarivattom, Kochi is an electronics company founded by Mr. Manoj. 
+Microtech Incorporated, Palarivattom, Kochi is an electronics company founded by Mr. Manoj. 
 
 Aud5 amps are designed and manufactured by Mikrotek. 
 
