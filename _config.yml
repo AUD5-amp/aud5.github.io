@@ -16,8 +16,8 @@ minima_reboot:
 
 header_pages:
 - about.md
-- posts.md
-- github.md
+
+
 
 footer_icons:
 - username: AUD5-amp
