@@ -4,7 +4,7 @@ email: aud5amp@gmail.com
 description: >
   This is a demo website of Aud5 amplifiers, made available by Mikrotek Incorporated based at Palarivattom, Kochi.
 
-plugins:
+plugins: 
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-feed
