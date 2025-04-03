@@ -1,10 +1,13 @@
-title: Aud5
-author: Manoj
-email: aud5amp@gmail.com
+title: minima-reboot
+author: GitHub User
+email: your-email@domain.com
 description: >
-  This is a demo website of Aud5 amplifiers, made available by Mikrotek Incorporated based at Palarivattom, Kochi.
+  This is a demo page for minima-reboot, a bootstrap-based rewrite of Jekyll's
+  default minima theme. It is simple, lightweight, and responsive.
+  You can use it with your GitHub Pages site by adding the line
+  "theme: aterenin/minima-reboot" to _config.yml.
 
-plugins: 
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-feed
@@ -16,15 +19,15 @@ minima_reboot:
 
 header_pages:
 - about.md
-
-
+- posts.md
+- github.md
 
 footer_icons:
-- username: AUD5-amp
-  url: https://aud5.github.io
+- username: aterenin/minima-reboot/
+  url: https://github.com/aterenin/minima-reboot/
   icon: icon-github.svg
 
-paginate: 0
+paginate: 5
 
 markdown: kramdown
 
